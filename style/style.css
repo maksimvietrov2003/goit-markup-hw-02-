@@ -1,7 +1,7 @@
 
 body{
     font-family: Roboto;
-    background-color: #E7E9FC;
+    background-color: #FFFFFF;
     margin: 0;
     padding: 0;
 }
@@ -62,4 +62,110 @@ address a:hover {
 .hero button:hover{
     background-color: #404BBF;
 }
-/*     <!-- Features section -->
+/*   Feaature */ 
+
+.features h2{
+color: #2E2F42;
+font-family: Roboto;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+}
+.features h3{
+color: #2E2F42;
+font-family: Roboto;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+}
+.features p{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #434455;
+}
+    /* <!-- Team section --> */
+
+    .team-seaction{
+        background-color: #F4F4FD;
+    }
+    .team-seaction h2{
+    text-align: center;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+
+    }
+    .team-seaction li{
+        background-color: #FFFFFF;
+    }
+    .team-seaction h3{
+        font-family: Roboto;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-align: center;
+
+     }
+     .team-seaction p{
+        font-family: Roboto;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+
+     }
+     /* Portfolio seaction */
+     .portfolio h3{
+    font-family: Roboto;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2E2F42;
+
+     }
+     .portfolio p{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+     }
+     /* Seaction Fuuter */
+     .fouter{
+        background-color: #2E2F42;
+     }
+     .fouter a{
+        text-decoration: none;
+        color: #4D5AE5;
+        font-family: Raleway;
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 18px;
+        line-height: 21px;
+      
+     }
+     .fouter span{
+         text-decoration: none;
+        color: #F4F4FD;
+        font-family: Raleway;
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 18px;
+        line-height: 21px;
+     }
+     .fouter p{
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+   color: #F4F4FD;
+
+     }
