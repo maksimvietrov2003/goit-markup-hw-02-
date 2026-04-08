@@ -133,6 +133,7 @@ img {
 
 .team-card {
   background-color: #ffffff;
+  text-align: center; /* ✅ ВОТ ЭТО ИСПРАВЛЕНИЕ */
 }
 
 /* Footer */
