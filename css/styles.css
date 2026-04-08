@@ -15,7 +15,10 @@ a {
 img {
   display: block;
 }
-
+a {
+  text-decoration: none;
+  color: inherit;
+}
 /* Header */
 .logo,
 .footer-logo {
@@ -133,7 +136,7 @@ img {
 
 .team-card {
   background-color: #ffffff;
-  text-align: center; /* ✅ ВОТ ЭТО ИСПРАВЛЕНИЕ */
+  text-align: center; 
 }
 
 /* Footer */
